@@ -1,3 +1,6 @@
+#ifndef MODELOS_H
+#define MODELOS_H
+
 #include <string>
 
 using namespace std;
@@ -42,3 +45,5 @@ struct Contadores {
     int cantidadVentas;
     int cantidadDetalles;
 };
+
+#endif

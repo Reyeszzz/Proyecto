@@ -274,7 +274,7 @@ int cargarProductos(Producto productos[], int maxProductos) {
     std::ifstream archivo("productos.txt");
 
     if (!archivo.is_open()) {
-        return -1;
+        return 0;
     }
 
     int cantidadProductos = 0;
