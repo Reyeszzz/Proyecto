@@ -1,0 +1,1 @@
+1|Administrador de prueba|admin|admin123|administrador|1
